@@ -1,0 +1,11 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Luana-Cardoso/node-api.git",
+  "author": "Luana-Cardoso <luanacardosotra@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
